@@ -1,0 +1,29 @@
+h1, h2 {
+	color: indianred;
+}
+
+
+h3 {
+	color: magenta;
+}
+
+p {
+	color: green;
+}
+
+p.penting {
+	color: red;
+}
+
+body {
+	background-color: grey;
+}
+
+h1#judul {
+	background-color: salmon;
+}
+
+article p {
+	color: red;
+}
+
